@@ -1,4 +1,4 @@
-name: Binance Futures Signal Alerts
+name: Futures Signal Alerts (Bybit Data)
 
 on:
   workflow_dispatch:
